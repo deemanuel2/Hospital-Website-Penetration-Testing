@@ -1,14 +1,20 @@
 # Hospital Website Penetration Testing
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux"/>
-  <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge" alt="Nmap"/>
-  <img src="https://img.shields.io/badge/WhatWeb-2C3E50?style=for-the-badge" alt="WhatWeb"/>
-  <img src="https://img.shields.io/badge/WHOIS-34495E?style=for-the-badge" alt="WHOIS"/>
-  <img src="https://img.shields.io/badge/DNSRecon-34495E?style=for-the-badge" alt="DNSRecon"/>
-  <img src="https://img.shields.io/badge/cURL-073551?style=for-the-badge&logo=curl&logoColor=white" alt="cURL"/>
-  <img src="https://img.shields.io/badge/Wafw00f-6A5ACD?style=for-the-badge" alt="Wafw00f"/>
-  <img src="https://img.shields.io/badge/John%20the%20Ripper-444444?style=for-the-badge" alt="John the Ripper"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/Skill-Cybersecurity-404040?style=flat-square&labelColor=C00000" />
+  <img src="https://img.shields.io/badge/Kali%20Linux-E87500?style=flat-square&labelColor=000000&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Skill-Penetration%20Testing-404040?style=flat-square&labelColor=C00000" />
+  <img src="https://img.shields.io/badge/Nmap-4682B4?style=flat-square&labelColor=000000" />
+  <img src="https://img.shields.io/badge/WhatWeb-404040?style=flat-square&labelColor=000000" />
+  <img src="https://img.shields.io/badge/WHOIS-404040?style=flat-square&labelColor=000000" />
+  <img src="https://img.shields.io/badge/DNSRecon-238F89?style=flat-square&labelColor=000000" />
+  <img src="https://img.shields.io/badge/cURL-073551?style=flat-square&labelColor=000000&logo=curl&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wafw00f-6A5ACD?style=flat-square&labelColor=000000" />
+  <img src="https://img.shields.io/badge/John%20the%20Ripper-404040?style=flat-square&labelColor=000000" />
+  <img src="https://img.shields.io/badge/SQL%20Injection-E87500?style=flat-square&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Network%20Reconnaissance-238F89?style=flat-square&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Ethical%20Hacking-E87500?style=flat-square&labelColor=000000&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/NetworkWalks-404040?style=flat-square&labelColor=C00000" />
 </p>
 
 ## Project Overview
