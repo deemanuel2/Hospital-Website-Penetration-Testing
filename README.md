@@ -50,7 +50,7 @@ The assessment highlighted the need for stronger authentication, secure database
 
 The complete penetration testing report, including methodology, findings, evidence, risk analysis and recommendations, is available in the PDF file in this repository.
 
-**File:** `Penetration-Testing-Report.pdf`
+**File:** `Penetration-Testing-Report.doc`
 
 ## Disclaimer
 
